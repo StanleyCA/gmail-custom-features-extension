@@ -1,0 +1,20 @@
+{
+    "name": "Gmail Custom Features",
+    "description": "Enhance your Gmail experience with a quick sender search feature.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "host_permissions": [
+        "https://mail.google.com/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": ["https://mail.google.com/*"],
+            "js": ["content.js"]
+        }
+    ],
+    "icons": {
+        "48": "icons/icon-48.png",
+        "64": "icons/icon-64.png",
+        "128": "icons/icon-128.png"
+    }
+}
