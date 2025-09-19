@@ -1,5 +1,5 @@
 {
-    "name": "Gmail Custom Features",
+    "name": "Gmail Extra Feature: Click Sender Search",
     "description": "Enhance your Gmail experience with a quick sender search feature.",
     "version": "1.0",
     "manifest_version": 3,

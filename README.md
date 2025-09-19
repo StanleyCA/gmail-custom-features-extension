@@ -1,5 +1,7 @@
 # Gmail Custom Features Extension
 
+![Preview of Gmail Custom Features extension](example.png)
+
 A Chrome Extension that injects Gmail with an extra feature, a quick sender search behavior when clicking a conversation sender.
 
 ## Features
